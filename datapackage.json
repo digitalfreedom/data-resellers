@@ -1,0 +1,76 @@
+{
+  "name": "surveillance-resellers",
+  "version": "0.1.0",
+  "description": "This is currently a list of these resellers throughout the world and some additional details. Currently, this data package is mostly resellers known for working with Italian company Hacking Team, but more will be added soon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalfreedom/data-resellers.git"
+  },
+  "keywords": [
+    "surveillance",
+    "resellers",
+    "international"
+  ],
+  "licenses": [
+    {
+      "type": "ODC-PDDL",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Unknown",
+      "web": ""
+    }
+  ],
+  "resources": [{
+      "path": "resellers.csv",
+      "schema": {
+        "fields": [{
+            "name": "company",
+            "title": "name of company that is a reseller",
+            "type": "string"
+          },{
+            "name": "entity",
+            "title": "type of business entity of company",
+            "type": "string"
+          },{
+            "name": "country",
+            "title": "country of origin based on ISO 3166",
+            "type": "string"
+          },{            
+            "name": "region",
+            "title": "region of origin based on ISO 3166",
+            "type": "string"
+          },{   
+            "name": "municipality",
+            "title": "city or town where office of company is located",
+            "type": "string"
+          },{
+            "name": "suppliers",
+            "title": "description of work performed",
+            "type": "string"
+          },{
+            "name": "government_customers",
+            "title": "customers who are governments",
+            "type": "string"
+          },{
+            "name": "corporate_customers",
+            "title": "customers who are corporations",
+            "type": "string"
+          },{
+            "name": "website",
+            "title": "website of company",
+            "type": "string"
+          },{
+            "name": "notes",
+            "title": "miscellaneous notes",
+            "type": "string"
+          }]
+      }
+  }],
+  "bugs": {
+    "url": "https://github.com/digitalfreedom/data-resellers/issues"
+  },
+  "homepage": "https://github.com/digitalfreedom/data-resellers#readme"
+}

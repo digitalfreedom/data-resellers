@@ -1,0 +1,21 @@
+company,entity,country,region,municipality,suppliers,government_customers,corporate_customers,website,notes
+CICOM USA,LLC,US,US-MD,Annapolis,,"FBI, DEA",,,Front company
+Defense Tech Systems,LTDA,BR,,,,,,,PoC: Moacyr Rabello  AKA: Marvic Comercio Representacao Exportacao Importacao
+Cyberpoint International,LLC,US,US-MD,Baltimore,,UAE,,,https://firstlook.org/theintercept/2015/07/07/baltimore-firm-supplying-united-arab-emirates-surveillance-software-won-special-export-license-state-department/
+NICE Systems,,IL,,,,"Uzbekistan NSS, Ethiopia INSA, Bayelsa, Thailand, Azerbaijan, Honduras",,,
+Robotec Corporation,SAS,CO,CO-CUN,Colombia,,,,http://www.robotec.com,
+Robotec Corporation,,CR,,Costa Rica,,,,http://www.robotec.com,
+Robotec Panama,,PA,PA-8,Panama,,,,http://www.robotecpanama.com,
+Theora,LTD,BZ,,,,,,,Appears to be a Robotec subsidiary
+RCS Lab,SPA,IT,IT-25,Milan,,,,http://www.rcslab.it/en/about-us/index.html,email mentions collab w/ Robotec & Cicom - lawful intercept
+InTech Solutions,GMBH,DE,DE-BY,Munich,,Iraqi Security Forces,,http://www.intech-solutions.de,Customers: CONDOR & FALCON
+Resi Informatica,SPA,IT,,Aprilia,,Tunisia,,,
+Miliserv,,MY,,,,,,,
+Dynamic México,,MX,,,,,,,
+K.B.H. Aviation,,,,,,,,,
+C.S.H. &  M.P.S. Srl,,IT,IT-82,Palermo,,,,,
+Aecom Security System,,US,US-CA,Los Angeles,,,,,
+Technology Control,CO,SA,,,,Saudi Arabia,,,Saudi state-owned
+YES Solutions,,SA,SA-01,Riyadh,,Saudi Arabia,,,Saudi state-owned
+Infotecs,,RU,,,,Russia FSB,,,
+Advanced Monitoring,,,,,,Russia FSB,,,Infotecs subsidiary
