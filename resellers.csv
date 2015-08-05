@@ -1,21 +1,34 @@
-company,entity,country,region,municipality,suppliers,government_customers,corporate_customers,website,notes
-CICOM USA,LLC,US,US-MD,Annapolis,,"FBI, DEA",,,Front company
-Defense Tech Systems,LTDA,BR,,,,,,,PoC: Moacyr Rabello  AKA: Marvic Comercio Representacao Exportacao Importacao
-Cyberpoint International,LLC,US,US-MD,Baltimore,,UAE,,,https://firstlook.org/theintercept/2015/07/07/baltimore-firm-supplying-united-arab-emirates-surveillance-software-won-special-export-license-state-department/
-NICE Systems,,IL,,,,"Uzbekistan NSS, Ethiopia INSA, Bayelsa, Thailand, Azerbaijan, Honduras",,,
-Robotec Corporation,SAS,CO,CO-CUN,Colombia,,,,http://www.robotec.com,
-Robotec Corporation,,CR,,Costa Rica,,,,http://www.robotec.com,
-Robotec Panama,,PA,PA-8,Panama,,,,http://www.robotecpanama.com,
-Theora,LTD,BZ,,,,,,,Appears to be a Robotec subsidiary
-RCS Lab,SPA,IT,IT-25,Milan,,,,http://www.rcslab.it/en/about-us/index.html,email mentions collab w/ Robotec & Cicom - lawful intercept
-InTech Solutions,GMBH,DE,DE-BY,Munich,,Iraqi Security Forces,,http://www.intech-solutions.de,Customers: CONDOR & FALCON
-Resi Informatica,SPA,IT,,Aprilia,,Tunisia,,,
-Miliserv,,MY,,,,,,,
-Dynamic México,,MX,,,,,,,
-K.B.H. Aviation,,,,,,,,,
-C.S.H. &  M.P.S. Srl,,IT,IT-82,Palermo,,,,,
-Aecom Security System,,US,US-CA,Los Angeles,,,,,
-Technology Control,CO,SA,,,,Saudi Arabia,,,Saudi state-owned
-YES Solutions,,SA,SA-01,Riyadh,,Saudi Arabia,,,Saudi state-owned
-Infotecs,,RU,,,,Russia FSB,,,
-Advanced Monitoring,,,,,,Russia FSB,,,Infotecs subsidiary
+company,entity,country,region,municipality,suppliers,government_customers,corporate_customers,contacts,website,notes
+CICOM USA,LLC,US,US-MD,Annapolis,,FBI; DEA,,,,Front company for Hacking Team US/North American sales
+Cyberpoint International,LLC,US,US-MD,Baltimore,,UAE MOI,,Marc Baier,http://cyberpointllc.com/,https://firstlook.org/theintercept/2015/07/07/baltimore-firm-supplying-united-arab-emirates-surveillance-software-won-special-export-license-state-department/
+NICE Systems,LTD,IL,,,,Uzbekistan NSS; Ethiopia INSA; Bayelsa State Government; Thailand; Azerbaijan; Honduras,,,http://nice.com,
+Horizon Global Group,,US,US-CA,Rancho Palos Verdes,,Azerbaijan NSS,,“Riad”,,"NICE reseller/partner - P.O. Box 4379, Rancho Palos Verdes, Nevada, CA. “Registration No.: F754574/D2088053”"
+Robotec Corporation,SAS,CO,CO-CUN,Colombia,,Colombia DIPOL; Ecuador SENAIN,,Hugo Ardila,http://www.robotec.com,
+Robotec Costa Rica,,CR,,Costa Rica,,,,Hugo Ardila,http://www.robotec.com,Contact info removed from site after HT hack: +506 6069 9058 costarica@robotec.com
+Robotec Panama,SA,PA,PA-8,Panama,,Panama President Security,,Hugo Ardila,http://www.robotecpanama.com,Contact info removed from site after HT hack: +507 294 5086 panama@robotec.com
+Robotec Peru,,,,Peru,,,,Hugo Ardila,http://robotec.com/,Contact info removed from site after HT hack: +51 99 370 6671 peru@robotec.com
+Theola,LTD,BZ,,Belize City,,Panama President Security; Ecuador SENAIN,,,,Robotec fulfillment partner in LATAM
+Soluciones de Tecnologia,SA,PA,PA-8,Panama,,Panama President Security,,Teofilo Homsany,http://solucionesdetecnologia.com; https://twitter.com/solutecsa,Robotec / Theola distributor in Panama
+RCS Lab,SPA,IT,IT-25,Milan,,,,,http://www.rcslab.it/en/about-us/index.html,HT email mentions collab w/ Robotec & Cicom - lawful intercept
+InTech Solutions,GMBH,DE,DE-BY,Munich,,Iraqi Security Forces,,,http://www.intech-solutions.de,Customers: CONDOR & FALCON
+Resi Informatica,SPA,IT,,Aprilia,,Tunisia,,,,
+Defense Tech Systems,LTDA,BR,,,,,,Moacyr Rabello,,AKA: Marvic Comercio Representacao Exportacao Importacao
+Miliserv,,MY,,,,,,Nasmizariman Mohd Nawi,,
+Charmco Enterprises,LTD,MY,,,,Malaysia MI,,,,
+IT Absolute Company,LTD,TH,,Bangkok,,Thai Police Dept. of Corrections,,,,
+PCS Security,,,,,,Singapore IDA,,,http://www.pcs-security.com/,
+Dynamic México,,MX,,,,,,,,
+Teva Tech de Mexico,SA de CV,MX,,,,Estado de Querétaro,,,,
+SYM Servicios Integrales,SA de CV,MX,,,,,,,,
+BSD Security Systems,,IL,,,BOSCH; SERMEX; Controlware Australia Pty Ltd; Aeronautics Defence Systems; ESC Baz observation systems; PHANTOM TECHNOLOGIES LTD; Netline Communications Technologies,,,Eyal Ashkenazi (CTO),,More info / suppliers listed here: https://wikileaks.org/hackingteam/emails/emailid/613118
+KBH Aviation,,IL,,,,Mexico Navy,,Eyal Ashkenazi (CTO),,BSD sister company selling to navy
+C.S.H. &  M.P.S. Srl,,IT,IT-82,Palermo,,,,,,
+Aecom Security System,,US,US-CA,Los Angeles,,,,,,
+Technology Control,CO,SA,,,,Saudi Arabia,,,,Saudi state-owned
+YES Solutions,,SA,SA-01,Riyadh,,Saudi MOD,,,http://yessolutions.com.co,Saudi state-owned AKA: Al Yamamah Engineering Systems Solutions
+Al Fahad Smart Systems,,AE,,Abu Dhabi,,Morocco CSDN,,Samir Adib,,
+Mauqah Technology,,AE,,Abu Dhabi,,UAE Intelligence,,,https://www.facebook.com/pages/Mauqah-Technology/361937440514795,UAE govt fulfillment vehicle / front
+Infotecs,,RU,,,,Russia FSB,Kvant,Alexey Kachalin,,FSB licensee
+Advanced Monitoring,,RU,,,,Russia FSB,Kvant,Alexey Kachalin,http://advancedmonitoring.ru,Infotecs subsidiary
+TKSL Telekommunikations-Sonderlösungen,GMBH,DE,,Lebach,,,,,,
+GNS Egypt,,,,Cairo,,,,,http://gnsegroup.com,Parent company GNSE Group is part of the Mansour Group
