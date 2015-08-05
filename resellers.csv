@@ -1,34 +1,37 @@
-company,entity,country,region,municipality,suppliers,government_customers,corporate_customers,contacts,website,notes
-CICOM USA,LLC,US,US-MD,Annapolis,,FBI; DEA,,,,Front company for Hacking Team US/North American sales
-Cyberpoint International,LLC,US,US-MD,Baltimore,,UAE MOI,,Marc Baier,http://cyberpointllc.com/,https://firstlook.org/theintercept/2015/07/07/baltimore-firm-supplying-united-arab-emirates-surveillance-software-won-special-export-license-state-department/
-NICE Systems,LTD,IL,,,,Uzbekistan NSS; Ethiopia INSA; Bayelsa State Government; Thailand; Azerbaijan; Honduras,,,http://nice.com,
-Horizon Global Group,,US,US-CA,Rancho Palos Verdes,,Azerbaijan NSS,,“Riad”,,"NICE reseller/partner - P.O. Box 4379, Rancho Palos Verdes, Nevada, CA. “Registration No.: F754574/D2088053”"
-Robotec Corporation,SAS,CO,CO-CUN,Colombia,,Colombia DIPOL; Ecuador SENAIN,,Hugo Ardila,http://www.robotec.com,
-Robotec Costa Rica,,CR,,Costa Rica,,,,Hugo Ardila,http://www.robotec.com,Contact info removed from site after HT hack: +506 6069 9058 costarica@robotec.com
-Robotec Panama,SA,PA,PA-8,Panama,,Panama President Security,,Hugo Ardila,http://www.robotecpanama.com,Contact info removed from site after HT hack: +507 294 5086 panama@robotec.com
-Robotec Peru,,,,Peru,,,,Hugo Ardila,http://robotec.com/,Contact info removed from site after HT hack: +51 99 370 6671 peru@robotec.com
-Theola,LTD,BZ,,Belize City,,Panama President Security; Ecuador SENAIN,,,,Robotec fulfillment partner in LATAM
-Soluciones de Tecnologia,SA,PA,PA-8,Panama,,Panama President Security,,Teofilo Homsany,http://solucionesdetecnologia.com; https://twitter.com/solutecsa,Robotec / Theola distributor in Panama
-RCS Lab,SPA,IT,IT-25,Milan,,,,,http://www.rcslab.it/en/about-us/index.html,HT email mentions collab w/ Robotec & Cicom - lawful intercept
-InTech Solutions,GMBH,DE,DE-BY,Munich,,Iraqi Security Forces,,,http://www.intech-solutions.de,Customers: CONDOR & FALCON
-Resi Informatica,SPA,IT,,Aprilia,,Tunisia,,,,
-Defense Tech Systems,LTDA,BR,,,,,,Moacyr Rabello,,AKA: Marvic Comercio Representacao Exportacao Importacao
-Miliserv,,MY,,,,,,Nasmizariman Mohd Nawi,,
-Charmco Enterprises,LTD,MY,,,,Malaysia MI,,,,
-IT Absolute Company,LTD,TH,,Bangkok,,Thai Police Dept. of Corrections,,,,
-PCS Security,,,,,,Singapore IDA,,,http://www.pcs-security.com/,
-Dynamic México,,MX,,,,,,,,
-Teva Tech de Mexico,SA de CV,MX,,,,Estado de Querétaro,,,,
-SYM Servicios Integrales,SA de CV,MX,,,,,,,,
-BSD Security Systems,,IL,,,BOSCH; SERMEX; Controlware Australia Pty Ltd; Aeronautics Defence Systems; ESC Baz observation systems; PHANTOM TECHNOLOGIES LTD; Netline Communications Technologies,,,Eyal Ashkenazi (CTO),,More info / suppliers listed here: https://wikileaks.org/hackingteam/emails/emailid/613118
-KBH Aviation,,IL,,,,Mexico Navy,,Eyal Ashkenazi (CTO),,BSD sister company selling to navy
-C.S.H. &  M.P.S. Srl,,IT,IT-82,Palermo,,,,,,
-Aecom Security System,,US,US-CA,Los Angeles,,,,,,
-Technology Control,CO,SA,,,,Saudi Arabia,,,,Saudi state-owned
-YES Solutions,,SA,SA-01,Riyadh,,Saudi MOD,,,http://yessolutions.com.co,Saudi state-owned AKA: Al Yamamah Engineering Systems Solutions
-Al Fahad Smart Systems,,AE,,Abu Dhabi,,Morocco CSDN,,Samir Adib,,
-Mauqah Technology,,AE,,Abu Dhabi,,UAE Intelligence,,,https://www.facebook.com/pages/Mauqah-Technology/361937440514795,UAE govt fulfillment vehicle / front
-Infotecs,,RU,,,,Russia FSB,Kvant,Alexey Kachalin,,FSB licensee
-Advanced Monitoring,,RU,,,,Russia FSB,Kvant,Alexey Kachalin,http://advancedmonitoring.ru,Infotecs subsidiary
-TKSL Telekommunikations-Sonderlösungen,GMBH,DE,,Lebach,,,,,,
-GNS Egypt,,,,Cairo,,,,,http://gnsegroup.com,Parent company GNSE Group is part of the Mansour Group
+company,entity,country,region,municipality,suppliers,government_customers,corporate_customers,website,notes
+CICOM USA,LLC,US,US-MD,Annapolis,Hacking Team,FBI; DEA,,,Front company for Hacking Team US/North American sales
+Cyberpoint International,LLC,US,US-MD,Baltimore,Hacking Team,UAE MOI,,http://cyberpointllc.com/,https://firstlook.org/theintercept/2015/07/07/baltimore-firm-supplying-united-arab-emirates-surveillance-software-won-special-export-license-state-department/
+NICE Systems,LTD,IL,,,Hacking Team,Uzbekistan NSS; Ethiopia INSA; Bayelsa State Government; Thailand; Azerbaijan; Honduras,,http://nice.com,
+Horizon Global Group,,US,US-CA,Rancho Palos Verdes,Hacking Team; NICE Systems,Azerbaijan NSS,,,HT/NICE fulfillment partner - P.O. Box 4379 Rancho Palos Verdes CA. Registration No.: F754574/D2088053
+Robotec Colombia,SAS,CO,CO-CUN,Bogota,Hacking Team,Colombia DIPOL; Ecuador SENAIN,,http://www.robotec.com,Robotec Corporation
+Robotec Costa Rica,,CR,,Costa Rica,Hacking Team,,,http://www.robotec.com,Contact info removed from site after HT hack: +506 6069 9058 costarica@robotec.com
+Robotec Panama,SA,PA,PA-8,Panama,Hacking Team,Panama President Security,,http://www.robotecpanama.com,Contact info removed from site after HT hack: +507 294 5086 panama@robotec.com
+Robotec Peru,,,,Peru,Hacking Team,,,http://www.robotec.com/,Contact info removed from site after HT hack: +51 99 370 6671 peru@robotec.com
+Theola,LTD,BZ,,Belize City,Hacking Team,Panama President Security; Ecuador SENAIN,,,Robotec front / fulfillment partner in LATAM
+Soluciones de Tecnologia,SA,PA,PA-8,Panama,Hacking Team; Robotec; Theola,Panama President Security,,http://solucionesdetecnologia.com; https://twitter.com/solutecsa,Robotec / Theola distributor in Panama
+RCS,SPA,IT,IT-25,Milan,Hacking Team,Italy DA (rental),,http://www.rcslab.it/en/about-us/index.html,HT email mentions collab w/ Robotec & Cicom - lawful intercept
+C.S.H. &  M.P.S.,SRL,IT,IT-82,Palermo,Hacking Team,Italy DA (rental),,,
+InTech Solutions,GMBH,DE,DE-BY,Munich,Hacking Team,Luxembourg IR authorities (CONDOR); Luxembourg State Security (FALCON),,http://www.intech-solutions.de,Customers: CONDOR & FALCON
+Resi Informatica,SPA,IT,,Aprilia,Hacking Team,Tunisia,,,
+9iSP Serviço Segurança Publica e Privada e Defensa,LTDA,BR,,São Paulo,Hacking Team,Brazil Policia Federal,,http://www.9isp.com.br/,
+Yasnitech,LTDA,BR,,São Paulo,Hacking Team,Brazil Policia Federal,,http://www.yasnitech.com.br/,Brazilian reseller run by former 9iSP employee Luca Gabrielli;
+Defense Tech Systems,LTDA,BR,,,Hacking Team,,,,AKA: Marvic Comercio Representacao Exportacao Importacao
+Miliserv Technologies,SDN BHD,MY,,,Hacking Team,Malaysia MACC,,,
+Charmco Enterprises,LTD,MY,,,Hacking Team,Malaysia MI,,,
+IT Absolute Company,LTD,TH,,Bangkok,Hacking Team,Thai Police Dept. of Corrections,,,
+PCS Security,,,,,Hacking Team,Singapore IDA,,http://www.pcs-security.com/,
+Dynamic Trading Exchange Technologies Corporativo Mxico,S de RL,MX,,,Hacking Team,,,,AKA: Dynamic Mexico
+Teva Tech de México,SA de CV,MX,,,Hacking Team,Estado de Querétaro,,,
+SYM Servicios Integrales,SA de CV,MX,,,Hacking Team,Governo de Puebla; Governo de Campeche; Tamaulipas; Jalisco,Pemex,,sold RCS to Mexican state oil company PEMEX
+BSD Security Systems,,IL,,,Hacking Team; BOSCH; SERMEX; Controlware Australia Pty Ltd; Aeronautics Defence Systems; ESC Baz observation systems; PHANTOM TECHNOLOGIES LTD; Netline Communications Technologies,,,,More info / suppliers listed here: https://wikileaks.org/hackingteam/emails/emailid/613118
+KBH Aviation,,IL,,,Hacking Team,Mexico Navy,,,BSD sister company selling to navy
+AECOM Security Systems,,SA,SA-01,Riyadh,Hacking Team,Saudi GIP,,http://aecom.com.sa,Saudi govt HT fulfillment; subsidiary of AECOM Group
+Net Revolution Est,,SA,SA-01,Riyadh,Hacking Team,Gaudi GIP,,netrevo.com.sa,Saudi govt HT fulfillment
+Technology Control Co.,,SA,,,Hacking Team,Saudi GID,,,Saudi govt HT fulfillment
+YES Solutions,,SA,SA-01,Riyadh,Hacking Team,Saudi MOD,,http://yessolutions.com.co,Saudi govt HT fulfillment;  AKA - Al Yamamah Engineering Systems Solutions
+Al Fahad Smart Systems,,AE,,Abu Dhabi,Hacking Team,Morocco CSDN,,,
+Mauqah Technology,,AE,,Abu Dhabi,Hacking Team,UAE Intelligence,,https://www.facebook.com/pages/Mauqah-Technology/361937440514795,UAE govt fulfillment vehicle / front
+Infotecs,,RU,,,Hacking Team,Russia FSB,Kvant,,FSB licensed provider
+Advanced Monitoring,,RU,,,Hacking Team; Infotecs,Russia FSB,Kvant,http://advancedmonitoring.ru,Infotecs subsidiary
+TKSL Telekommunikations-Sonderlösungen,GMBH,DE,,Lebach,Hacking Team,,,,HT maintenance provider for FALCON; Registered: HR B 100765 - Registration Court Saarbrücken
+GNS Egypt,,EG,,Cairo,Hacking Team,Egypt MOD; Egypt TRD,,http://gnsegroup.com,Mansour Group member
