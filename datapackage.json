@@ -1,28 +1,7 @@
 {
-  "name": "surveillance-resellers",
+  "name": "resellers",
   "version": "0.1.0",
-  "description": "This is currently a list of these resellers throughout the world and some additional details. Currently, this data package is mostly resellers known for working with Italian company Hacking Team, but more will be added soon",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/digitalfreedom/data-resellers.git"
-  },
-  "keywords": [
-    "surveillance",
-    "resellers",
-    "international"
-  ],
-  "licenses": [
-    {
-      "type": "ODC-PDDL",
-      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
-    }
-  ],
-  "sources": [
-    {
-      "name": "Unknown",
-      "web": ""
-    }
-  ],
+  "license": "PDDL-1.0",
   "resources": [{
       "path": "resellers.csv",
       "schema": {
@@ -38,11 +17,11 @@
             "name": "country",
             "title": "country of origin based on ISO 3166",
             "type": "string"
-          },{            
+          },{
             "name": "region",
             "title": "region of origin based on ISO 3166",
             "type": "string"
-          },{   
+          },{
             "name": "municipality",
             "title": "city or town where office of company is located",
             "type": "string"
@@ -69,8 +48,6 @@
           }]
       }
   }],
-  "bugs": {
-    "url": "https://github.com/digitalfreedom/data-resellers/issues"
-  },
-  "homepage": "https://github.com/digitalfreedom/data-resellers#readme"
+  "description": "This is currently a list of these resellers throughout the world and some additional details. Currently, this data package is mostly resellers known for working with Italian company Hacking Team, but more will be added soon",
+  "repository": "https://github.com/digitalfreedom/data-resellers.git"
 }
