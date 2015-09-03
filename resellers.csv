@@ -4,6 +4,11 @@
 "NICE Systems","LTD","IL","IL-TA","Ra'anana","Hacking Team","Uzbekistan NSS; Ethiopia INSA; Bayelsa State Government; Thailand; Azerbaijan; Honduras",,"http://nice.com",
 "Horizon Global Group",,"US","US-CA","Rancho Palos Verdes","Hacking Team; NICE Systems","Azerbaijan NSS",,,"HT/NICE fulfillment partner - P.O. Box 4379 Rancho Palos Verdes CA. Registration No.: F754574/D2088053"
 "Covert Network Associates","LTD","UK","GB-ENG",,,,,"http://covertnetworkassociates.co.uk/","Attempted selling RCS to UK authorities – https://www.documentcloud.org/documents/2159875-hacking-team-uk-meeting.html"
+"Maicrotel","LTDA","CO","CO-CUN","Bogota","Spectra Group","Colombia DIPOL",,"http://www.maicrotel.com","Provided Spectra Group's “Laguna” IMSI catcher to DIPOL in 2005"
+"Eagle Commercial","SA","CO",,,"Harris Corporation; Allen-Vanguard; Taser International","Colombia DAS; Colombia Police; Colombia Armed Forces; Colombia US Embassy",,,
+"Compañía Commercial Curacao de Colombia","SA","CO","CO-CUN","Bogota","Verint",,,,"aka “La Curacao”; provided & maintained Colombian Police “Integrated Recording System” built by Verint"
+"Emerging Technologies Corporation",,"CO",,,"DreamHammer",,,,"Helps develop/sell drone software with DreamHammer"
+"STAR Inteligencia & Tecnologia","SA","CO","CO-CUN","Bogota","Smith Meyers Communications",,,,"Integrated components from American and British suppliers to build Colombian Esperanza intercept system"
 "Robotec Colombia","SAS","CO","CO-CUN","Bogota","Hacking Team","Colombia DIPOL; Ecuador SENAIN",,"http://www.robotec.com","Robotec Corporation"
 "Robotec Costa Rica",,"CR",,"Costa Rica","Hacking Team",,,"http://www.robotec.com","Contact info removed from site after HT hack: +506 6069 9058 costarica@robotec.com"
 "Robotec Panama","SA","PA","PA-8","Panama","Hacking Team","Panama President Security",,"http://www.robotecpanama.com","Contact info removed from site after HT hack: +507 294 5086 panama@robotec.com"
@@ -32,9 +37,9 @@
 "Teva Tech de México","SA de CV","MX","MX-DIF","Mexico City","Hacking Team","Estado de Querétaro",,,
 "SYM Servicios Integrales","SA de CV","MX",,,"Hacking Team","Puebla State Government; Campeche State Government; Tamaulipas State Government; Jalisco State Government","Pemex",,"sold RCS to Mexican state oil company PEMEX"
 "Elite BY Carga","SA de CV","MX","MX-BCN","Tijuana","Hacking Team","Yucatán State Government; Baja California Secretaría de Planeación y Finanzas",,,
-"BSD Security Systems",,"MX","MX-DIF","Mexico City","Hacking Team; BOSCH; SERMEX; Controlware Australia Pty Ltd; Aeronautics Defence Systems; ESC Baz observation systems; PHANTOM TECHNOLOGIES LTD; Netline Communications Technologies",,,,"Israeli owned reseller in Mexico; More info / suppliers listed here: https://wikileaks.org/hackingteam/emails/emailid/613118"
+"BSD Security Systems","SA de CV","MX","MX-DIF","Mexico City","Hacking Team; BOSCH; SERMEX; Controlware Australia Pty Ltd; Aeronautics Defence Systems; ESC Baz observation systems; PHANTOM TECHNOLOGIES LTD; Netline Communications Technologies","Mexico Federal Police",,,"Israeli/Mexican vendor - CCTV, Cellular Jamming, Control Access, Aviation; More info / suppliers listed here: https://wikileaks.org/hackingteam/emails/emailid/613118"
 "KBH Aviation","SA","PA","PA-8","Panama","Hacking Team","Mexico Navy",,,"BSD sister company selling to navy; MMG Tower, 2F, Marbella, Bella Vista, Panama, Panama"
-"AECOM Security Systems",,"SA","SA-01","Riyadh","Hacking Team","Saudi GIP",,"http://aecom.com.sa","Saudi govt HT fulfillment; subsidiary of AECOM Group"
+"AECOM Security System",,"SA","SA-01","Riyadh","Hacking Team","Saudi GIP",,"http://aecom.com.sa","Saudi govt HT fulfillment; subsidiary of AECOM Group"
 "Net Revolution Est",,"SA","SA-01","Riyadh","Hacking Team","Saudi GIP",,"netrevo.com.sa","Saudi govt HT fulfillment"
 "Technology Control Co.",,"SA","SA-01","Riyadh","Hacking Team","Saudi GID",,,"Saudi govt HT fulfillment"
 "YES Solutions",,"SA","SA-01","Riyadh","Hacking Team","Saudi MOD",,"http://yessolutions.com.co","Saudi govt HT fulfillment;  AKA - Al Yamamah Engineering Systems Solutions"
@@ -44,7 +49,7 @@
 "Excellence Tech",,"OM","OM-MA","Muscat","Hacking Team","Oman Intelligence",,,"PO Box 1668, Al-Othaiba, Sultanate of Oman; PO Box 3348, PC 112, Ruwi, Sultanate Of Oman"
 "Communicator's Globe","LTD","PK","PK-IS","Islamabad",,,,"http://www.communicatorsglobe.com/; https://www.facebook.com/pages/Communicators-Globe/267577633280261","Signed NDA to market RCS in Pakistan:  https://wikileaks.org/hackingteam/emails/emailid/583116"
 "Infotecs","JSC","RU",,"Moscow","Hacking Team","Russia FSB","Kvant",,"FSB licensed provider"
-"Advanced Monitoring",,"RU",,"Moscow","Hacking Team; Infotecs","Russia FSB","Kvant","http://advancedmonitoring.ru","Infotecs subsidiary"
+"Advanced Monitoring","JSC","RU",,"Moscow","Hacking Team; Infotecs","Russia FSB","Kvant","http://advancedmonitoring.ru","Infotecs subsidiary"
 "TKSL Telekommunikations-Sonderlösungen","GMBH","DE",,"Lebach","Hacking Team","Iraqi Kurdistan (CONDOR); Luxembourg State Security (FALCON)",,,"HT maintenance provider for FALCON; Registered: HR B 100765 - Registration Court Saarbrücken"
 "GNS Egypt",,"EG",,"Cairo","Hacking Team","Egypt MOD; Egypt TRD",,"http://gnsegroup.com","Mansour Group member"
 "Skylinks Satellite Communications","LTD","IL","IL-M","Modi'in","Hacking Team; NICE Systems","Nigeria Bayelsa State Governor's Office",,"http://skylinksltd.com","NICE RCS reseller/support for Nigeria"
